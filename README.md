@@ -3,7 +3,7 @@
 <p align="center">
   <img src="src/assets/hero.png" alt="Dezo SOC Console" width="85%" style="border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);" />
 </p>
-
+# Link: https://dezo-roan.vercel.app/
 <p align="center">
   <strong>منصة محاكاة تعليمية تفاعلية للعمليات السيبرانية (SOC) لاختبار هجمات الحرمان من الخدمة الموزعة (DDoS) وتفعيل استراتيجيات الدفاع السيبراني محلياً في المتصفح.</strong>
 </p>
